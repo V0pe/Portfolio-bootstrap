@@ -3,3 +3,11 @@
 .container {
   background: #191765;
 }
+.arrow-icon {
+  width: 18px;
+  height: 18px;
+  margin-top: 4px;
+}
+.btn {
+  background: #9390ff;
+}
